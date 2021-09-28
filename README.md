@@ -1,2 +1,2 @@
 # GrubDash
-![screen shot of applicationn](https://github.com/Harvi-D/grub-dash/blob/main/image.jpg?raw=true)
+![screen shot of applicationn](https://github.com/Harvi-D/grub-dash/blob/main/grubDash.png?raw=true)
